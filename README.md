@@ -1,3 +1,3 @@
 # Travel-agency
 Group mini project
-k&s
+group members-Sarth, Adit and Pavan
